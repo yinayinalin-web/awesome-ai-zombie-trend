@@ -71,6 +71,8 @@ Ready-to-paste versions, written out one shot at a time, live in these [shot-by-
 - Skip sunglasses, masks and heavy beauty filters; the model copies what it sees.
 - Recent photos give the closest result; faces come out close to the photo, not as perfect copies.
 
+A longer version of these checks, with what to expect from each kind of tool, is on this [photo checklist for keeping your face in zombie and hug videos](https://sites.google.com/view/zombie-video-photo-checklist).
+
 ## Consent and privacy
 
 - Stick to your own face, grown-ups who said yes, or an animal that lives with you.
